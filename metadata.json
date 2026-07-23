@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence App",
+  "description": "Full Stack Weather Intelligence application providing real-time weather data, 7-day forecast, activity recommendations, and interactive metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
